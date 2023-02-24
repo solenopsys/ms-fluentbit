@@ -1,7 +1,7 @@
 apiVersion: v2
-name: alexstorm-hsm-router
+name: fluent-bit-invicta
 version: 0.1.20
-description: Router hStreams
+description: Fluent bit logger
 icon: "http://alexstorm.solenopsys.org/apps/assets/hStream.svg"
 
 
